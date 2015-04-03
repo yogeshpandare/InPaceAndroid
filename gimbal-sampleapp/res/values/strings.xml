@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2014 Gimbal, Inc. All rights reserved.
+
+    This software is the confidential and proprietary information of Gimbal, Inc.
+
+    The following sample code illustrates various aspects of the Gimbal SDK.
+
+    The sample code herein is provided for your convenience, and has not been
+    tested or designed to work on any particular system configuration. It is
+    provided AS IS and your use of this sample code, whether as provided or
+    with any modification, is at your own risk. Neither Gimbal, Inc.
+    nor any affiliate takes any liability nor responsibility with respect
+    to the sample code, and disclaims all warranties, express and
+    implied, including without limitation warranties on merchantability,
+    fitness for a specified purpose, and against infringement.
+-->
+<resources>
+
+    <string name="app_name">InPace</string>
+    <string name="app_title">InPace</string>
+    <string name="action_enable">Enable</string>
+    <string name="action_not_now">Not Now</string>
+    <string name="action_privacy_policy">Privacy Policy</string>
+    <string name="action_tos">Terms of Use</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_place_monitoring">Place Monitoring</string>
+    <string name="action_reset_app_instance_id">Reset App Instance ID</string>
+    <string name="optin_top_text">Enable location to find</string>
+    <string name="optin_bottom_text">nearby places.</string>
+    <string name="Seidenberg">Welcome To Seidenberg!!</string>
+    <string name="First1">Ready, Set, Go!!</string>
+    <string name="First2">163 William Street</string>
+    <string name="First3">Visit Department Chair Dr. Scharff at the Seidenberg School of CSIS to find your first beacon</string>
+    <string name="First4">Next!</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_first">First</string>
+    <string name="title_activity_game_options">GameOptions</string>
+    <string name="start">START</string>
+    <string name="nextlocation">Next Location!</string>
+    <string name="title_activity_app_service_location2">AppServiceLocation2</string>
+    <string name="title_activity_location2">Location2</string>
+    <string name="Location2First1">Ready, Set, Go!!</string>
+    <string name="Location2First2">1 Pace Plaza</string>
+    <string name="Location2First3">Explore the books at Library</string>
+    <string name="Location2First4">Next!</string>
+    <string name="title_activity_app_activity_location2">AppActivityLocation2</string>
+
+</resources>
